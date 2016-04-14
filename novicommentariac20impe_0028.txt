@@ -1,0 +1,48 @@
+22· »ᾖς (0 ) seso·-
+
+in qua igitur postrema serie, quae hic series eiefflom‘s
+vocatur ‚ nullus plane ordo patescit,
+
+Cum autem haec series duabus rebus determi-
+netur, quarum altera a numero notarum, altera
+vcro a numeratore pendeat , tota quaestio in genere
+eo reducitur‚vt proposito notarum numero vnacum
+numeratore ipia. series eiectionis inueniatur3 cuius
+autern iolutio, cum in genere expectari nequeat ‚
+111. dissertationis Auc‘tori plures casus particulares
+percurrere visum ess ‚ spe freto, fore , vt inde lex
+quaepiam detegatur, cuius ope regotium confici
+poffit3 quem in finem icries eiee'tiouis pro diuersis
+numeratoribus in talibus schematibus exposuit, quale
+hic pro numeratore 3 perspicuitatis gratia appo-
+nemus ·
+
+Numerus Series ciestionis
+notarum pro numeratore 3
+1 1
+1, 2
+
+2
+
+3 3,1‚2
+
+4 3,2‚4‚1
+
+5 3,1,5‚2,4
+6 3‚6,4,2‚5,1
+
+7 }3,6,2,7,5‚1‚4
+
+8 !3‚6,1‚5,2,8‚4,7
+
+9 ¹3‚6‚9‚4‚8‚5·2‚7‚ 1
+
+¹0 3‚6‚9‚2,7‚1,8,5‚10,4
+
+11 3,6,9,1‚5‚10‚4‚11, 8³ 2²7
+
+12 3‚6,9,12‚4,8‚ 1, 7⁷ 2³1¹’5' ¹0
+etc. Cte-
+
+vbi
+

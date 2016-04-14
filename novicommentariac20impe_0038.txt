@@ -1,0 +1,35 @@
+39- ”2213 ( 0 ) &303-
+
+dinatas x ‚ y, z definitur ‚ quas igitur vttfunffio·
+nes temporis speetari oportet, dum priores X, Y‚Z
+tantum ad statum initialem referuntur. Quo igitur
+ex priorum huius duplicis generis quantitatum va-
+riabilitate tam motus clementi dM ‚ quam eius ac-
+celeratio determinari queat, lll. Auctor motum se-
+cundum ternas direcstiones fixas se inuicem normali·
+ter decurrentes resoluit, vnde tam ternae elementi
+celeritates quam accelerationes secundum easdem di·
+rectiones definiuntur. Porro omnes vires, quibus
+corpus hoc tempore sollicitatur etiam secundum ter-
+nas illas diretffiones resoluendO, fi ex omnibus con-
+iunctis vires oriantur P, Q, R, quia istae vires
+summis omnium virium acceleratricium aequari de-
+henr, inde tres nascuntur aequationes integr-alm, in
+quibus tempus t vt constans spectatur, etiamsi iu
+formulis differentialibus pro celeritatibus et accelera-
+tionibus id tolum pro variabili fit habitum. Deinde
+cum omnia virium acceleratriciurn momenta respectu
+ternorum axium timul sumta aequalia reddi debeant
+momentis ex viribus sollicitantibus respectu axium
+deductis, inde iterum tres aequationes oriuntur, in
+quibus solae quantitates X, Y , Z sunt variabiles.
+Formulae autem integrales in hitce sex aequationi-
+bus occurrentes, quae tantum ad statum corporis
+initialem referuntur per totam corporis massam sunt
+extendendae, vnde certae constantes a figura et in-
+dole corporis pendentes in calculum ingrediuntur,
+quibus introduc'tis nullae aliae variabiles adsunt, nist
+
+quae a tempore t pendeant. Cum autem facta sub·
+stitutione
+

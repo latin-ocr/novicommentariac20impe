@@ -1,0 +1,38 @@
+⁰⁵02-ss ( 0 ) Q« :³1
+
+mo complectitur, cuius veritas ex ipslS calculis an-
+tecedentibus pateicit. Hoc theorema subsequitur ap-
+plicatio formularum pro translatione inuenturum
+ad coordinatas orthogonales‚ quae si pro statu ini·
+tiali puncti cuiuspiam fuerint X, Y , Z, pro statu
+vero mutato eiusdem puncti statuantur x ‚ y, z,
+existentibus coordinatis pro punc’to illo in centro
+corporis constituti f, g, h, adhibitisque formulis
+traditis nanciscuntur pro x, y , z valoreS, qui,
+quia nimis sunt intricati ita abbreuiantur, vt fit
+
+xzs÷FX÷F¹Y÷F¹¹Z
+ng-i-Gx-Js-G‘Y—Js-GHZ
+zzh÷Hx÷H¹Y÷fl112
+
+vbi coefficientes F ‚ G, H etc. ab angulo conuer-
+
+fionis aliisque arcubus per sphaerica ingreffis pen·
+dent, et ita comparati tunt, vt fit
+
+FF-i-GG-i-HHZI FF¹÷GG‘—÷-HH‘::0
+F! [ΣΙ-44 GIGI÷ H! HI: Ι et FIFH÷GIGII÷HIHHZO
+Fuk ll÷ ΕΙΙΕΙΙἈὶ-ΗΗΗΙΙ- 1 F FH÷G GH÷H HJJ—0
+
+Quo autem formulae generales pro motu cor-
+porum rigidorum a viribus quibuscunque iollicitato·
+rum tradantur, Vir 111. corpus quodcunque rigidum
+considerat ‚ cuius singulorum elementorum loca pro
+statu initiali per ternas coordinat-„15 X ‚ Y , Z de-
+terminentur3 et denotante M massam totius corpo:
+ri5‚ eius elementum quodcunque charactere ΔΜ
+defignatur‚cuius elementi locus deinceps fitc’ta trans-
+latione post temporis interuallum t per ternas coor-
+
+dinatus
+

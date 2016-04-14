@@ -1,0 +1,43 @@
+238 DE MOTV CORPORVM RthDOttvM.
+
+Caeterum hoc argumentum dignissimum videtur,
+quod omni studio excolatur3 cum inde non solum
+in mechanica sed etiam in Analyst egregia incremen-
+ta expectari queant.
+
+§. 50. Antequam hoc argumentum penitus
+deseram fortasse haud abs re erit annotasse , ternas
+aequationes §. 46. latis commode ad duas reuocari
+posse, dum variabilis t, cuius differentiale tantum
+ingreditur penitus eliminatur, id quod facillime ef-
+fici poterit primam aequationem per p, secundam
+per q et tertiam pet· r multiplicand03 tum euim
+prodibit sequens aequatio satis concinna:
+
+''Q-{A4ffi''dt÷2d<1>:0‚
+vnde statim fit
+dt Ξ — ι Λ d Φ
+
+91 Q r’
+qui valor in d'ussssus'ssfftum aequationibus substitutus
+
+suppeditabit duas nouas aequatioues, in qubus tantum
+tres variabiles insunt ,· quarum bina per tertiam de-
+terminari oporteret: interim tamen nulla via patet,
+quomodo hoc commode praestari poffit3 praecipue
+hac ratione solutio illa simplex, quae iam a priori
+constat, prorsus excluderetur. Quia enim quantitates
+p, q, r sunt constante5‚ angulus vero <D tempori
+proportionalis, neutiquam ficri potest, vt iste angu-
+lus per quantitates p, q, r, exprimatur. Hanc igi·
+tur ob caussam issa inuestigatio omnino deserenda
+videtur, praecipue cum huius quatstionis ope metho-
+di olim vfitatae iam completam solutionem elicue-
+rim , qua igitur acquiescere debemus.
+
+ 
+
+ 
+
+THEORE—
+

@@ -1,0 +1,36 @@
+230 DE MOTV
+
+vbi constantes 91&AE inuoluunt motum ‚ qui cot-
+
+pori initio praeter motum centri grauitatis fuerit
+impreffuS.
+
+§. 37. Tota igitur solutio perducta est ad istas
+tres aequationes differentiales primi gradus, quae
+cum praeter tempus t tanturn continent tres var a·
+biles: scilicet angulum Φ cum angulis ouem, qui
+vti iam obseruauiuius duobus tantum aequiualent‚
+quoniam est
+’ cos. a²÷·cos. ξ’ 4- col.‘y¹ z ι ‚
+vnde patet, problema effe determinatum. Quod si
+enim integrationes successerint , ad quod vis tempus
+istos angulos assignare licebit. Cognoscetur enim
+per angulos α, ¹3, γ positio illius axis corporis qui
+post tempus t eandem habet ‚direct-ionem ‚ quam ini-
+tio habuerat. Deinde vero angulus <D ostendet,
+quautam conuerssonem totum corpus circa istum
+axem 10 subit-rit, quemadmodum in prima parte
+fufius explicnuimus.
+
+§. 38. Quo autem facilius ipsos hos angulos
+in tres nostras aequationes introducere queamus, quo-
+niam omnia per cosmus angulorum α, ξ’, Ὺ com-
+mode exprimi poliunt, statuamus breuitatis gratia
+
+cossa-tp, colsssszq et cosuyzr, ita vt sit
+pp-Js-qq—i—rr: 1 ideoque
+pdp-l-qdq—l-rdrzm
+Hinc igitur sequentes habebimus determinationes pro
+litteris maiusculis F, G, H etc. in nostras aequationes
+ingredientibus
+

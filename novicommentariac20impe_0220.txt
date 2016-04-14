@@ -1,0 +1,34 @@
+134 NOVVM
+
+quemlibet autem terminum ad suam debitam fot·
+mam deprimi oportet ‚ antequam ex eo sequentem
+ope regulae demonstratae eliciamus,
+
+13. Pro casibus autem particularibus ad ter·
+minos valde remotos per saltus progredi licet, vt
+non sit opus omnes intermedios euoluiffe. Scilicetfi
+pro numeratore n ‚ indici ν, qui hic notarum nu-
+merum fignificat , respondeat terminus a, tum in·
+dici ν —4-x respondebit terminus taff-nx, dum sit
+a-'i-77x<v÷x seu x <2 123⁶: quin adhuc hic termi-
+nus recte se habet ‚ si x vnitate augeatur ‚ hoc est
+fi x> {12³¹ , vt exceffus vnit-,tte s1t minor, tum.-
+que indici r-i—x· respondtcit terminus <n-1).·c-v-{-a.
+Simili modo ab hoc pet· saltum nd remotiorem ter-
+minum peruinire licet , saltus autem continuo fiunt
+maiores: per singulos autem saltus termini in pro·
+greffione arithmetica secundum numeratorem n cre·
+scente procedunt. Ab initio quidem singuli termini
+seorsim sunt definiendi ‚ statim autem atque ad in-
+dices numeratore maiores peruenitur, calculus per
+saltus commodius instituitur, cuius specimen pro
+numeratore 9 opponam, vbi perpetuo numerum
+γ-α per 8 ita diuidi oportet, vt quotus nimis
+magnus accipiatur: tum euim ipse quotus dabit va·
+lorem ipsius x ‚ et residuum erit terminus pet
+hunc saltum sequens:
+
+ 
+
+Series
+

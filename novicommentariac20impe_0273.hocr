@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novicommentariac20impe_0273.png"; bbox 0 0 2012 2724; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 183 909 1585 1220">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 183 909 1585 1220">
+     <span class='ocr_line' id='line_1_1' title="bbox 539 909 1214 1010; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 539 911 605 1010; x_wconf 87' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_2' title='bbox 638 911 723 1008; x_wconf 87' lang='lat' dir='ltr'>H</span> <span class='ocrx_word' id='word_1_3' title='bbox 758 911 832 1009; x_wconf 83' lang='lat' dir='ltr'>Y</span> <span class='ocrx_word' id='word_1_4' title='bbox 857 911 909 1007; x_wconf 82' lang='lat' dir='ltr'><strong><em>S</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 940 910 977 1008; x_wconf 88' lang='lat'>1</span> <span class='ocrx_word' id='word_1_6' title='bbox 1002 911 1080 1009; x_wconf 85' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_7' title='bbox 1109 909 1214 1006; x_wconf 87' lang='lat' dir='ltr'><strong>O-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 183 1068 1585 1220; baseline -0.004 -8"><span class='ocrx_word' id='word_1_8' title='bbox 183 1068 1585 1220; x_wconf 72' lang='lat' dir='ltr'><strong>MATHEMATICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
